@@ -1,0 +1,14 @@
+{
+  "uuid": "af7c1fe6-d669-414e-b066-e9733f0de7a8",
+  "beneficiario": {
+    "agencia": "1210",
+    "codigoBanco": 341,
+    "conta": "101214",
+    "cpf": "01234567890",
+    "nomeFavorecido": "José dos Santos"
+  },
+  "tipoTransacao": "PAGAMENTO_TRIBUTOS",
+  "valor": 140,
+  "situacao": "AGUARDANDO_APROVACAO",
+  "dataTransacao": "2012-04-23T18:25:43.511Z"
+}
